@@ -1,0 +1,14 @@
+# Secrets: never commit these
+*.key
+*.img
+*.env
+.env
+*_key
+id_*
+!*.pub
+secrets/
+
+# Editor junk
+*.swp
+*~
+.DS_Store
